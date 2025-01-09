@@ -1,0 +1,74 @@
+[
+  {
+    "title":"What does HTML stand for?",
+    "answer_1":"Hot Typing Markup Language",
+    "answer_2":"Home Typing Modern Language",
+    "answer_3":"Hyper Text Markup Language",
+    "answer_4":"Home Testing Mixed Language",
+    "right_answer":"Hyper Text Markup Language"
+  },
+  {
+    "title":"Which one of the following headers has the correct HTML syntax?",
+    "answer_1":"<h1>Welcome</h1>",
+    "answer_2":"{{h1}}Welcome{{:h1}}",
+    "answer_3":"{h1:Welcome}",
+    "answer_4":"None of them",
+    "right_answer":"<h1>Welcome</h1>"
+  },
+  {
+    "title":"What is a correct HTML markup for the document type declaration?",
+    "answer_1":"DOCTYPE html;",
+    "answer_2":"<!DOCTYPE html>",
+    "answer_3":"--DOCTYPE html;",
+    "answer_4":"None of them",
+    "right_answer":"<!DOCTYPE html>"
+  },
+  {
+    "title":"Which of the following headers is the largest and most important header?",
+    "answer_1":"<h5>",
+    "answer_2":"<h3>",
+    "answer_3":"<h4>",
+    "answer_4":"<h6>",
+    "right_answer":"<h3>"
+  },
+  {
+    "title":"What is a correct way to add a background color to an HTML document?",
+    "answer_1":"<body style='background-color:pink;'>",
+    "answer_2":"<body background-color='pink;'>",
+    "answer_3":"<body style='bgcolor:pink;'>",
+    "answer_4":"None of them",
+    "right_answer":"<body style='background-color:pink;'>"
+  },
+  {
+    "title":"Two of the following HTML elements makes the text bold, which two?",
+    "answer_1":"<em> and <b>",
+    "answer_2":"<mark> and <b>",
+    "answer_3":"<big> and <b>",
+    "answer_4":"<strong> and <b>",
+    "right_answer":"<strong> and <b>"
+  },
+  {
+    "title":"What is the correct tag name for list items?",
+    "answer_1":"<item>",
+    "answer_2":"<list-item>",
+    "answer_3":"<li>",
+    "answer_4":"<ol>",
+    "right_answer":"<li>"
+  },
+  {
+    "title":"What is the correct HTML element for defining a form?",
+    "answer_1":"<schema>",
+    "answer_2":"<ff>",
+    "answer_3":"<from>",
+    "answer_4":"<form>",
+    "right_answer":"<form>"
+  },
+  {
+    "title":"What is not a legal form attribute for the INPUT element?",
+    "answer_1":"formtarget",
+    "answer_2":"formtype",
+    "answer_3":"formaction",
+    "answer_4":"None of them",
+    "right_answer":"formtype"
+  }
+]
